@@ -7,7 +7,7 @@
 
 This add-on gives you access to over 450 figurines that will appear in the game carousel view of the Animatics-DX theme. The figurines are displayed either by family or by the name of the games in your gamelists. The directories are organized as follows:
 
-_inc\figurines\family: for figurines categorized by family
+_inc\figurines\family: for figurines categorized by family  
 _inc\figurines\gameName: for figurines categorized by game name
 
 These figurines were created with the help of ChatGPT by Patrix91 and myself. Of course, you can add your own figurines and even share them with us so we can integrate them directly into the add-on. You will find a text file named "ChatGPT figurines script"—simply copy and paste this text into ChatGPT to generate figurines with the quality we are looking for.
@@ -23,7 +23,7 @@ This pack will be regularly updated. If you want to help, you can check the Goog
 
 Cet add-on vous donne accès à plus de 450 figurines qui s'afficheront dans la vue gamecarousel du thème Animatics-DX. Les figurines sont affichées soit par famille, soit par nom des jeux de vos gamelists. Les répertoires sont organisés comme suit :
 
-_inc\figurines\family : pour les figurines classées par famille
+_inc\figurines\family : pour les figurines classées par famille  
 _inc\figurines\gameName : pour les figurines classées par nom de jeu
 
 Ces figurines ont été créées avec l’aide de ChatGPT par Patrix91 et moi-même. Bien sûr, vous pouvez ajouter vos propres figurines et même nous les partager pour qu’elles soient intégrées directement dans l’add-on. Vous trouverez un fichier texte nommé "ChatGPT figurines script" : il vous suffit de copier-coller ce texte dans ChatGPT pour générer des figurines avec la qualité que nous recherchons.
