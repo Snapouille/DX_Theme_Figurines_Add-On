@@ -3,7 +3,7 @@
 <img width="2278" height="600" alt="background" src="https://github.com/user-attachments/assets/1a15e0c6-f3f1-47c3-a351-7187e9239bf4" />
   
 
-## ![gb](https://github.com/Snapouille/es-theme-Animatics-DX-Music/assets/105559045/a1e80520-3bff-4ff7-9bbf-d96489424fc3) Add-on figurines for themes: 
+## ![gb](https://github.com/Snapouille/es-theme-Animatics-DX-Music/assets/105559045/a1e80520-3bff-4ff7-9bbf-d96489424fc3) 
 
 This add-on gives you access to over 450 figurines that will appear in the game carousel view of the Animatics-DX theme. The figurines are displayed either by family or by the name of the games in your gamelists. The directories are organized as follows:
 
@@ -19,7 +19,7 @@ This pack will be regularly updated. If you want to help, you can check the Goog
     BATOCERA:     \userdata\themes\
 
   
-## ![fr](https://github.com/Snapouille/es-theme-Animatics-DX-Music/assets/105559045/c889ac90-f68b-4008-80ff-7d1903eed8eb) Figurines add-on pour les thèmes :
+## ![fr](https://github.com/Snapouille/es-theme-Animatics-DX-Music/assets/105559045/c889ac90-f68b-4008-80ff-7d1903eed8eb) 
 
 Cet add-on vous donne accès à plus de 450 figurines qui s'afficheront dans la vue gamecarousel du thème Animatics-DX. Les figurines peuvent être affichées soit par famille, soit par nom des jeux dans vos gamelists. Les répertoires sont organisés comme suit :
 
