@@ -1,5 +1,7 @@
-
-ANIMATICS-DX ADD-ON FIGURINES
+<img width="862" height="234" alt="figurines add-on" src="https://github.com/user-attachments/assets/4e4df8ff-ac11-4878-815d-1df590e060ab" />
+  
+<img width="2278" height="600" alt="background" src="https://github.com/user-attachments/assets/1a15e0c6-f3f1-47c3-a351-7187e9239bf4" />
+  
 
 ## ![gb](https://github.com/Snapouille/es-theme-Animatics-DX-Music/assets/105559045/a1e80520-3bff-4ff7-9bbf-d96489424fc3) Add-on figurines for themes: 
 
@@ -39,8 +41,8 @@ Ce pack sera régulièrement mis à jour. Si vous souhaitez aider, vous pouvez c
     Cliquer sur Code en haut à droite et download ZIP  
 
 ## ___________________________________________
-**GOOGLE SHEET LINK ?**   
-  
+**GOOGLE SHEET LINK**   
+https://docs.google.com/spreadsheets/d/1A24V778whCrPeosAF64T8U6JRENZGM22/edit?userstoinvite=lycanthrop91%40gmail.com&role=writer&gid=400017899#gid=400017899  
   
   
 
