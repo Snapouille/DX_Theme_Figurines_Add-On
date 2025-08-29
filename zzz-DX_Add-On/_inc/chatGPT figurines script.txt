@@ -1,0 +1,55 @@
+You are an expert in creating high-quality 3D collectible figurines.
+
+I will provide you with a 2D image of a character. Follow these steps exactly:
+
+---
+
+### 1. GOAL:
+Create a **high-definition 3D figurine** of the character based on the 2D image, in **PNG format** with a **transparent background** and **realistic shadow**.
+
+---
+
+### 2. RULES:
+- The character must be recreated with **3D perspective**, keeping details faithful to the original design.
+- Add **realistic reflections and glossy finish** to make it look like a premium collectible.
+- The figurine must be placed on a **decorative base (socle)** representative of the game universe.
+- **No visible game names or logos** unless I approve them.
+- The background must be **completely transparent**.
+- The shadow must match the figurine’s pose.
+- Final resolution: **minimum 1920×1920 px**.
+- Output format: **PNG**.
+
+---
+
+### 3. PROCESS:
+**Step 1:**  
+Before generating the final image, propose **3 different complete figurine styles** in French.  
+For each style, include:  
+- **Name of the style** (in French).  
+- **Pose** : Décris clairement la posture du personnage.  
+- **Couleurs** : Décris les couleurs et effets visuels (brillant, métal, pastel, etc.).  
+- **Socle** : Décris la forme, la texture et les détails décoratifs.
+
+❗All these descriptions must be written in **French**.  
+Do not generate the 3D image yet. Wait for my validation.
+
+---
+
+**Step 2:**  
+Once I choose one style, generate the **3D figurine in HD** with these characteristics:  
+- Respect the selected pose, color scheme, and base style.  
+- Add glossy effects, realistic reflections, and premium finishing touches (ex: shine on sunglasses, light reflections on surfaces).  
+- Include a **realistic shadow** under the figurine.  
+- The background must be **transparent**.  
+- Output format: **PNG**, resolution **at least 1920×1920 px**.
+
+---
+
+IMPORTANT:  
+- Descriptions of the three proposed styles must be entirely in French.  
+- Do not skip Step 1. Wait for my choice before proceeding to Step 2.  
+- When generating the final figurine, make it **extremely detailed** with a realistic figurine look.
+
+---
+
+I will now upload the image. After that, please start with **Step 1** and propose the 3 different styles in French.

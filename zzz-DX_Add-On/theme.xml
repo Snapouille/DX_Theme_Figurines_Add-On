@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+theme name: Animatics-DX-Add On Music
+-->
+<theme>
+   <formatVersion>7</formatVersion>
+   <view name="system,basic">
+      <helpsystem name="help">
+         <pos>1 1</pos>
+      </helpsystem>
+      <image name="background" extra="true">
+         <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>0 1</size>
+         <path>./_inc/images/background.jpg</path>
+         <zIndex>1000</zIndex>
+      </image>
+   </view>
+   <view name="system">
+      <carousel name="systemcarousel">
+         <type>horizontal</type>
+         <pos>0 1.5</pos>
+         <size>1 0.075</size>
+      </carousel>
+      <text name="systemInfo">
+         <pos>0 1.5</pos>
+      </text>
+   </view>
+</theme>
