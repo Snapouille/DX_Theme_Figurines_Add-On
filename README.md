@@ -46,3 +46,10 @@ https://docs.google.com/spreadsheets/d/1A24V778whCrPeosAF64T8U6JRENZGM22/edit?us
 ---
   
 **V 0.1 - (2025 08 25) - Initialization**  
+
+---
+  
+## ✨ Présentation visuelle / Visual Overview
+  
+![screenshots_demo_2s](https://github.com/user-attachments/assets/8918c3a9-0b67-43b5-a3bd-92244b54044a)
+
