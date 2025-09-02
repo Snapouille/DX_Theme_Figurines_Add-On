@@ -13,6 +13,8 @@ _inc\figurines\gameName: for figurines categorized by game name
 These figurines were created with the help of ChatGPT by Patrix91 and myself. Of course, you can add your own figurines and even share them with us so we can integrate them directly into the add-on. You will find a text file named "ChatGPT figurines script"—simply copy and paste this text into ChatGPT to generate figurines with the quality we are looking for.
 This pack will be regularly updated. If you want to help, you can check the Google Sheet below to see which figurines are awaiting creation.
 
+<ins> **HOW TO DOWNLOAD?** </ins> --> Click to <img width="73" height="21" alt="code" src="https://github.com/user-attachments/assets/7b8aeffd-ba90-4a55-a02b-f5ec8cd52cca" /> top right and download ZIP.    
+
 ***You have to put the folder "zzz-DX_Add-On" directly in themes folder:***
 
     RETROBAT:     \retrobat\emulationstation\.emulationstation\themes\
@@ -29,22 +31,18 @@ _inc\figurines\gameName : pour les figurines classées par nom de jeu
 Ces figurines ont été créées avec l’aide de ChatGPT par Patrix91 et moi-même. Bien sûr, vous pouvez ajouter vos propres figurines et même nous les partager pour qu’elles soient intégrées directement dans l’add-on. Vous trouverez un fichier texte nommé "ChatGPT figurines script" : il vous suffit de copier-coller ce texte dans ChatGPT pour générer des figurines avec la qualité que nous recherchons.
 Ce pack sera régulièrement mis à jour. Si vous souhaitez aider, vous pouvez consulter le Google Sheet ci-dessous pour voir quelles figurines sont en attente de création.
 
+<ins> **COMMENT TELECHARGER ?** </ins> --> Cliquer sur <img width="73" height="21" alt="code" src="https://github.com/user-attachments/assets/0b30be1b-d912-4352-9cf8-b48cc21d6f78" /> en haut à droite et download ZIP.   
+
 ***Vous devez placer le dossier "zzz-DX_Add-On" directement dans le dossier des thèmes:***
  
     RETROBAT:     \retrobat\emulationstation\.emulationstation\themes\
     BATOCERA:     \userdata\themes\
-
-## ___________________________________________
   
-**HOW TO DOWNLOAD? / COMMENT TELECHARGER ?**  
-    Click to Code top right and download ZIP  
-    Cliquer sur Code en haut à droite et download ZIP  
-
-## ___________________________________________
+---
+  
 **GOOGLE SHEET LINK**   
 https://docs.google.com/spreadsheets/d/1A24V778whCrPeosAF64T8U6JRENZGM22/edit?userstoinvite=lycanthrop91%40gmail.com&role=writer&gid=400017899#gid=400017899  
   
+---
   
-
-## ___________________________________________
 **V 0.1 - (2025 08 25) - Initialization**  
