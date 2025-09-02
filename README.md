@@ -13,7 +13,7 @@ _inc\figurines\gameName: for figurines categorized by game name
 These figurines were created with the help of ChatGPT by Patrix91 and myself. Of course, you can add your own figurines and even share them with us so we can integrate them directly into the add-on. You will find a text file named "ChatGPT figurines script"—simply copy and paste this text into ChatGPT to generate figurines with the quality we are looking for.
 This pack will be regularly updated. If you want to help, you can check the Google Sheet below to see which figurines are awaiting creation.
 
-💾 <ins> **HOW TO DOWNLOAD?** </ins> --> Click to <img width="73" height="21" alt="code" src="https://github.com/user-attachments/assets/7b8aeffd-ba90-4a55-a02b-f5ec8cd52cca" /> top right and download ZIP.    
+![Disquette](https://cdn-icons-png.flaticon.com/512/60/60740.png) <ins> **HOW TO DOWNLOAD?** </ins> --> Click to <img width="73" height="21" alt="code" src="https://github.com/user-attachments/assets/7b8aeffd-ba90-4a55-a02b-f5ec8cd52cca" /> top right and download ZIP.    
 
 ***You have to put the folder "zzz-DX_Add-On" directly in themes folder:***
 
