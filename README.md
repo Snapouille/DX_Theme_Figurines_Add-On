@@ -41,7 +41,7 @@ Ce pack sera régulièrement mis à jour. Si vous souhaitez aider, vous pouvez c
 ---
   
 📊 **GOOGLE SHEET LINK**   
-https://docs.google.com/spreadsheets/d/1A24V778whCrPeosAF64T8U6JRENZGM22/edit?userstoinvite=lycanthrop91%40gmail.com&role=writer&gid=400017899#gid=400017899  
+https://docs.google.com/spreadsheets/d/1A24V778whCrPeosAF64T8U6JRENZGM22/edit?usp=sharing&ouid=100210971308392868740&rtpof=true&sd=true
   
 ---
   
@@ -51,5 +51,6 @@ https://docs.google.com/spreadsheets/d/1A24V778whCrPeosAF64T8U6JRENZGM22/edit?us
   
 ## ✨ Preview
   
-![screenshots_demo_2s](https://github.com/user-attachments/assets/8918c3a9-0b67-43b5-a3bd-92244b54044a)
+![screenshots_demo_3s](https://github.com/user-attachments/assets/5641b134-dff0-4f6e-bb4b-f218980206b0)
+
 
