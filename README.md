@@ -15,7 +15,7 @@ This pack will be regularly updated. If you want to help, you can check the Goog
 
 💾 <ins> **HOW TO DOWNLOAD?** </ins> --> Click to <img width="73" height="21" alt="code" src="https://github.com/user-attachments/assets/7b8aeffd-ba90-4a55-a02b-f5ec8cd52cca" /> top right and download ZIP.    
 
-***You have to put the folder "zzz-DX_Add-On" directly in themes folder:***
+--> ***You have to put the folder "zzz-DX_Add-On" directly in themes folder:***
 
     RETROBAT:     \retrobat\emulationstation\.emulationstation\themes\
     BATOCERA:     \userdata\themes\
@@ -33,7 +33,7 @@ Ce pack sera régulièrement mis à jour. Si vous souhaitez aider, vous pouvez c
 
 💾 <ins> **COMMENT TELECHARGER ?** </ins> --> Cliquer sur <img width="73" height="21" alt="code" src="https://github.com/user-attachments/assets/0b30be1b-d912-4352-9cf8-b48cc21d6f78" /> en haut à droite et download ZIP.   
 
-***Vous devez placer le dossier "zzz-DX_Add-On" directement dans le dossier des thèmes:***
+--> ***Vous devez placer le dossier "zzz-DX_Add-On" directement dans le dossier des thèmes:***
  
     RETROBAT:     \retrobat\emulationstation\.emulationstation\themes\
     BATOCERA:     \userdata\themes\
