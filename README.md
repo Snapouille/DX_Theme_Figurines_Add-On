@@ -51,6 +51,5 @@ https://docs.google.com/spreadsheets/d/1A24V778whCrPeosAF64T8U6JRENZGM22/edit?us
   
 ## ✨ Preview
   
-![screenshots_demo_3s](https://github.com/user-attachments/assets/5641b134-dff0-4f6e-bb4b-f218980206b0)
-
-
+![screenshots_demo](https://github.com/user-attachments/assets/fa03845d-eaa1-419e-aa0e-7890ea5226d5)
+  
