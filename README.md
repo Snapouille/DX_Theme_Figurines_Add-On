@@ -10,7 +10,7 @@ This add-on gives you access to over 560 figurines that will appear in the game 
 **_inc\figurines\family**: for figurines categorized by family  
 **_inc\figurines\gameName**: for figurines categorized by game name
 
-These figurines were created with the help of ChatGPT by Patrix91 and myself. Of course, you can add your own figurines and even share them with us so we can integrate them directly into the add-on. You will find a text file named "ChatGPT figurines script"—simply copy and paste this text into ChatGPT to generate figurines with the quality we are looking for.
+These figurines were created with the help of ChatGPT by Patrix91, cyraxcop84-art and myself. Of course, you can add your own figurines and even share them with us so we can integrate them directly into the add-on. You will find a text file named "ChatGPT figurines script"—simply copy and paste this text into ChatGPT to generate figurines with the quality we are looking for.
 This pack will be regularly updated. If you want to help, you can check the Google Sheet below to see which figurines are awaiting creation.
 
 💾 <ins> **HOW TO DOWNLOAD?** </ins> --> Click to <img width="73" height="21" alt="code" src="https://github.com/user-attachments/assets/7b8aeffd-ba90-4a55-a02b-f5ec8cd52cca" /> top right and download ZIP.    
@@ -28,7 +28,7 @@ Cet add-on vous donne accès à plus de 560 figurines qui s'afficheront dans la 
 **_inc\figurines\family** : pour les figurines classées par famille  
 **_inc\figurines\gameName** : pour les figurines classées par nom de jeu
 
-Ces figurines ont été créées avec l’aide de ChatGPT par Patrix91 et moi-même. Bien sûr, vous pouvez ajouter vos propres figurines et même nous les partager pour qu’elles soient intégrées directement dans l’add-on. Vous trouverez un fichier texte nommé "ChatGPT figurines script" : il vous suffit de copier-coller ce texte dans ChatGPT pour générer des figurines avec la qualité que nous recherchons.
+Ces figurines ont été créées avec l’aide de ChatGPT par Patrix91, cyraxcop84-art et moi-même. Bien sûr, vous pouvez ajouter vos propres figurines et même nous les partager pour qu’elles soient intégrées directement dans l’add-on. Vous trouverez un fichier texte nommé "ChatGPT figurines script" : il vous suffit de copier-coller ce texte dans ChatGPT pour générer des figurines avec la qualité que nous recherchons.
 Ce pack sera régulièrement mis à jour. Si vous souhaitez aider, vous pouvez consulter le Google Sheet ci-dessous pour voir quelles figurines sont en attente de création.
 
 💾 <ins> **COMMENT TELECHARGER ?** </ins> --> Cliquer sur <img width="73" height="21" alt="code" src="https://github.com/user-attachments/assets/0b30be1b-d912-4352-9cf8-b48cc21d6f78" /> en haut à droite et download ZIP.   
@@ -45,12 +45,13 @@ https://docs.google.com/spreadsheets/d/1A24V778whCrPeosAF64T8U6JRENZGM22/edit?us
   
 ---
   
-**V 0.1 - (2025 08 25) - Initialization**  
-**V 0.2 - (2025 09 04) - Add 100 figurines (Patrix91)**    
-  
----
-  
 ## ✨ Preview
   
 ![screenshots_demo](https://github.com/user-attachments/assets/fa03845d-eaa1-419e-aa0e-7890ea5226d5)
+  
+---
+
+**V 0.1 - (2025 08 25) - Initialization**  
+**V 0.2 - (2025 09 04) - Add 100 figurines (Patrix91)**    
+**V 0.3 - (2025 09 18) - Add 60 figurines (cyraxcop84-art)**    
   
