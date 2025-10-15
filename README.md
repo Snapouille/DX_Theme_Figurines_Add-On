@@ -5,7 +5,7 @@
 
 ## ![gb](https://github.com/Snapouille/es-theme-Animatics-DX-Music/assets/105559045/a1e80520-3bff-4ff7-9bbf-d96489424fc3) 
 
-This add-on gives you access to over 780 figurines that will appear in the game carousel view of the Animatics-DX theme. The figurines are displayed either by family or by the name of the games in your gamelists. The directories are organized as follows:
+This add-on gives you access to over 800 figurines that will appear in the game carousel view of the Animatics-DX theme. The figurines are displayed either by family or by the name of the games in your gamelists. The directories are organized as follows:
 
 **_inc\figurines\family**: for figurines categorized by family  
 **_inc\figurines\gameName**: for figurines categorized by game name
@@ -23,7 +23,7 @@ This pack will be regularly updated. If you want to help, you can check the Goog
   
 ## ![fr](https://github.com/Snapouille/es-theme-Animatics-DX-Music/assets/105559045/c889ac90-f68b-4008-80ff-7d1903eed8eb) 
 
-Cet add-on vous donne accès à plus de 780 figurines qui s'afficheront dans la vue gamecarousel du thème Animatics-DX. Les figurines sont affichées soit par famille, soit par nom des jeux de vos gamelists. Les répertoires sont organisés comme suit :
+Cet add-on vous donne accès à plus de 800 figurines qui s'afficheront dans la vue gamecarousel du thème Animatics-DX. Les figurines sont affichées soit par famille, soit par nom des jeux de vos gamelists. Les répertoires sont organisés comme suit :
 
 **_inc\figurines\family** : pour les figurines classées par famille  
 **_inc\figurines\gameName** : pour les figurines classées par nom de jeu
@@ -56,4 +56,5 @@ https://docs.google.com/spreadsheets/d/1A24V778whCrPeosAF64T8U6JRENZGM22/edit?us
 **V 0.3 - (2025 09 18) - Add 60 figurines (cyraxcop84-art)**    
 **V 0.4 - (2025 09 24) - Add 60 figurines (Snapouille)**    
 **V 0.5 - (2025 10 15) - Add 80 figurines (Snapouille)**    
+**V 0.6 - (2025 10 15) - Add 20 figurines (Aynshe)**    
   
