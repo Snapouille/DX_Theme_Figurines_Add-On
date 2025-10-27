@@ -51,12 +51,15 @@ https://docs.google.com/spreadsheets/d/1A24V778whCrPeosAF64T8U6JRENZGM22/edit?us
   
 ---
 
-**V 0.1 - (2025 08 25) - Initialization 485 figurines (Patrix91 & Snapouille)**  
-**V 0.2 - (2025 09 04) - Add 100 figurines (Patrix91)**    
-**V 0.3 - (2025 09 18) - Add 60 figurines (cyraxcop84-art)**    
-**V 0.4 - (2025 09 24) - Add 60 figurines (Snapouille)**    
-**V 0.5 - (2025 10 15) - Add 80 figurines (Snapouille)**    
-**V 0.6 - (2025 10 15) - Add 20 figurines (Aynshe)**    
-**V 0.7 - (2025 10 18) - Add 20 figurines (Myos)**    
+V 0.1 - (2025 08 25) - Add 485 figurines 	(Patrix91 & Snapouille)    
+V 0.2 - (2025 09 04) - Add 100 figurines 	(Patrix91)      
+V 0.3 - (2025 09 18) - Add  60 figurines 	(cyraxcop84-art)    
+V 0.4 - (2025 09 24) - Add  60 figurines 	(Snapouille)     
+V 0.5 - (2025 10 15) - Add  80 figurines 	(Snapouille)      
+V 0.6 - (2025 10 15) - Add  20 figurines 	(Aynshe)      
+V 0.7 - (2025 10 18) - Add  20 figurines 	(Myos)      
+V 0.8 - (2025 10 27) - Add  68 figurines 	(Snapouille)      
+V 0.9 - (2025 10 27) - Add 153 figurines 	(Myos)     
+V 1.0 - (2025 10 27) - Add  35 figurines 	(Aynshe)      
 
   
