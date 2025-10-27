@@ -5,12 +5,12 @@
 
 ## ![gb](https://github.com/Snapouille/es-theme-Animatics-DX-Music/assets/105559045/a1e80520-3bff-4ff7-9bbf-d96489424fc3) 
 
-This add-on gives you access to over 820 figurines that will appear in the game carousel view of the Animatics-DX theme. The figurines are displayed either by family or by the name of the games in your gamelists. The directories are organized as follows:
+This add-on gives you access to over 1000 figurines that will appear in the game carousel view of the Animatics-DX theme. The figurines are displayed either by family or by the name of the games in your gamelists. The directories are organized as follows:
 
 **_inc\figurines\family**: for figurines categorized by family  
 **_inc\figurines\gameName**: for figurines categorized by game name
 
-These figurines were created with the help of ChatGPT by Patrix91, cyraxcop84-art and myself. Of course, you can add your own figurines and even share them with us so we can integrate them directly into the add-on. You will find a text file named "ChatGPT figurines script"—simply copy and paste this text into ChatGPT to generate figurines with the quality we are looking for.
+These figurines were created with the help of ChatGPT by Patrix91, Cyraxcop84, Myos, Aynshe and myself. Of course, you can add your own figurines and even share them with us so we can integrate them directly into the add-on. You will find a text file named "ChatGPT figurines script"—simply copy and paste this text into ChatGPT to generate figurines with the quality we are looking for.
 This pack will be regularly updated. If you want to help, you can check the Google Sheet below to see which figurines are awaiting creation.
 
 💾 <ins> **HOW TO DOWNLOAD?** </ins> --> Click to <img width="73" height="21" alt="code" src="https://github.com/user-attachments/assets/7b8aeffd-ba90-4a55-a02b-f5ec8cd52cca" /> top right and download ZIP.    
@@ -23,12 +23,12 @@ This pack will be regularly updated. If you want to help, you can check the Goog
   
 ## ![fr](https://github.com/Snapouille/es-theme-Animatics-DX-Music/assets/105559045/c889ac90-f68b-4008-80ff-7d1903eed8eb) 
 
-Cet add-on vous donne accès à plus de 820 figurines qui s'afficheront dans la vue gamecarousel du thème Animatics-DX. Les figurines sont affichées soit par famille, soit par nom des jeux de vos gamelists. Les répertoires sont organisés comme suit :
+Cet add-on vous donne accès à plus de 1000 figurines qui s'afficheront dans la vue gamecarousel du thème Animatics-DX. Les figurines sont affichées soit par famille, soit par nom des jeux de vos gamelists. Les répertoires sont organisés comme suit :
 
 **_inc\figurines\family** : pour les figurines classées par famille  
 **_inc\figurines\gameName** : pour les figurines classées par nom de jeu
 
-Ces figurines ont été créées avec l’aide de ChatGPT par Patrix91, cyraxcop84-art et moi-même. Bien sûr, vous pouvez ajouter vos propres figurines et même nous les partager pour qu’elles soient intégrées directement dans l’add-on. Vous trouverez un fichier texte nommé "ChatGPT figurines script" : il vous suffit de copier-coller ce texte dans ChatGPT pour générer des figurines avec la qualité que nous recherchons.
+Ces figurines ont été créées avec l’aide de ChatGPT par Patrix91, Cyraxcop84, Myos, Aynshe et moi-même. Bien sûr, vous pouvez ajouter vos propres figurines et même nous les partager pour qu’elles soient intégrées directement dans l’add-on. Vous trouverez un fichier texte nommé "ChatGPT figurines script" : il vous suffit de copier-coller ce texte dans ChatGPT pour générer des figurines avec la qualité que nous recherchons.
 Ce pack sera régulièrement mis à jour. Si vous souhaitez aider, vous pouvez consulter le Google Sheet ci-dessous pour voir quelles figurines sont en attente de création.
 
 💾 <ins> **COMMENT TELECHARGER ?** </ins> --> Cliquer sur <img width="73" height="21" alt="code" src="https://github.com/user-attachments/assets/0b30be1b-d912-4352-9cf8-b48cc21d6f78" /> en haut à droite et download ZIP.   
