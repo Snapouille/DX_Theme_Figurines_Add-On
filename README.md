@@ -2,7 +2,7 @@
   
 <img width="2278" height="600" alt="background" src="https://github.com/user-attachments/assets/1a15e0c6-f3f1-47c3-a351-7187e9239bf4" />
   
-# Version 1.1 (2025 11 01)
+# Version 1.3 (2025 11 08)
 
 ## ![gb](https://github.com/Snapouille/es-theme-Animatics-DX-Music/assets/105559045/a1e80520-3bff-4ff7-9bbf-d96489424fc3)  
   
@@ -63,4 +63,6 @@ V 0.8 - (2025 10 27) - Add  68 figurines 	(Snapouille)
 V 0.9 - (2025 10 27) - Add 153 figurines 	(Myos)     
 V 1.0 - (2025 10 27) - Add  35 figurines 	(Aynshe)      
 V 1.1 - (2025 11 01) - Add 147 figurines 	(Snapouille)  
+V 1.2 - (2025 11 08) - Add  41 figurines 	(Snapouille)  
+V 1.3 - (2025 11 08) - Add  23 figurines 	(Aynshe)  
   
