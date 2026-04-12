@@ -2,7 +2,7 @@
   
 <img width="2278" height="600" alt="background" src="https://github.com/user-attachments/assets/1a15e0c6-f3f1-47c3-a351-7187e9239bf4" />
   
-# Version 2.4 (2026 04 12)
+# Version 2.5 (2026 04 12)
 
 ## ![gb](https://github.com/Snapouille/es-theme-Animatics-DX-Music/assets/105559045/a1e80520-3bff-4ff7-9bbf-d96489424fc3)  
   
