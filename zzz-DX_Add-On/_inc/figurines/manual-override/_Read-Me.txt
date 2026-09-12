@@ -1,0 +1,15 @@
+ENGLISH
+Added manual-override directory:
+This directory holds figures for games with titles containing restricted special characters (e.g., *, :, ?), which prevents automatic detection via the game name.
+
+- How it works: The figure is already stored in the manual-override folder, but it will not display automatically.
+- Action required: You must manually add the <family> tag in the game's gamelist.xml using the exact filename of the corresponding figure.
+
+
+
+FRANCAIS
+Ajout du répertoire manual-override :
+Ce dossier contient les figurines des jeux dont le titre intègre des caractères spéciaux interdits par le système de fichiers (ex. *, :, ?), ce qui empêche une détection automatique via le nom du jeu.
+
+- Fonctionnement : La figurine est déjà présente dans le dossier manual-override, mais elle ne s'affichera pas automatiquement.
+- Action requise : Il faut ajouter manuellement la balise <family> dans la gamelist.xml du jeu en y renseignant exactement le nom du fichier de la figurine correspondante.
