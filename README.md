@@ -2,11 +2,11 @@
   
 <img width="2278" height="600" alt="background" src="https://github.com/user-attachments/assets/1a15e0c6-f3f1-47c3-a351-7187e9239bf4" />
   
-# Version 3.0 (2026 09 12)
+# Version 3.1 (2026 09 17)
 
 ## ![gb](https://github.com/Snapouille/es-theme-Animatics-DX-Music/assets/105559045/a1e80520-3bff-4ff7-9bbf-d96489424fc3)  
   
-This add-on gives you access to over 1820 figurines that will appear in the game carousel view of the Animatics-DX theme. The figurines are displayed either by family or by the name of the games in your gamelists. The directories are organized as follows:
+This add-on gives you access to over 2000 figurines that will appear in the game carousel view of the Animatics-DX theme. The figurines are displayed either by family or by the name of the games in your gamelists. The directories are organized as follows:
 
 **_inc\figurines\family**: for figurines categorized by family  
 **_inc\figurines\gameName**: for figurines categorized by game name
@@ -24,7 +24,7 @@ This pack will be regularly updated. If you want to help, you can check the Goog
   
 ## ![fr](https://github.com/Snapouille/es-theme-Animatics-DX-Music/assets/105559045/c889ac90-f68b-4008-80ff-7d1903eed8eb)  
 
-Cet add-on vous donne accès à plus de 1820 figurines qui s'afficheront dans la vue gamecarousel du thème Animatics-DX. Les figurines sont affichées soit par famille, soit par nom des jeux de vos gamelists. Les répertoires sont organisés comme suit :
+Cet add-on vous donne accès à plus de 2000 figurines qui s'afficheront dans la vue gamecarousel du thème Animatics-DX. Les figurines sont affichées soit par famille, soit par nom des jeux de vos gamelists. Les répertoires sont organisés comme suit :
 
 **_inc\figurines\family** : pour les figurines classées par famille  
 **_inc\figurines\gameName** : pour les figurines classées par nom de jeu
@@ -82,3 +82,4 @@ V 2.7 - (2026 05 24) - Add 011 figurines 	(Snapouille)
 V 2.8 - (2026 06 07) - Add 023 figurines 	(Snapouille)   
 V 2.9 - (2026 07 04) - Add 019 figurines 	(Snapouille)   
 V 3.0 - (2026 09 12) - Add 086 figurines 	(Myos)   
+V 3.1 - (2026 09 17) - Add 176 figurines 	(Snapouille)   
