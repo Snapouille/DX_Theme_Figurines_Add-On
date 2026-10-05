@@ -42,14 +42,16 @@ Ce pack sera régulièrement mis à jour. Si vous souhaitez aider, vous pouvez c
 ---
   
 📊 **GOOGLE SHEET LINK**   
-https://docs.google.com/spreadsheets/d/1A24V778whCrPeosAF64T8U6JRENZGM22/edit?usp=sharing&ouid=100210971308392868740&rtpof=true&sd=true  
-  
+https://docs.google.com/spreadsheets/d/1fa3J5FccqAm_WvB3vbSXnC_vtJsvlUerExpxGLwZ9bE/edit?gid=1227603061#gid=1227603061  
   
 ---
   
 ## ✨ Preview
   
-![screenshots_demo](https://github.com/user-attachments/assets/fa03845d-eaa1-419e-aa0e-7890ea5226d5)
+![screenshots_demo](https://github.com/user-attachments/assets/fa03845d-eaa1-419e-aa0e-7890ea5226d5)  
+  
+  
+<img width="1920" height="1080" alt="2026-10-05 09_34_28-EmulationStation" src="https://github.com/user-attachments/assets/8f890124-76f9-4e57-a735-3534947eb069" />
   
 ---
 
